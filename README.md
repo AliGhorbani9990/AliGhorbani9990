@@ -22,11 +22,11 @@
 
 📈 **GitHub Stats**
 <!-- Optionally add a stats card if you like -->
-![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masudhosseinbor&show_icons=true&theme=radical)
+![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliGhorbani9990&show_icons=true&theme=radical)
 
 📫 **How to reach me**
-- Email: [your_email@example.com]
-- LinkedIn: [Your LinkedIn URL]
+- Email: [Ali@veket.ir]
+- LinkedIn: [aliveket]
 
 ✨ **Fun Fact**
 I enjoy exploring **low-level computing**, building bots and automation tools, and optimizing workflows to save time and resources.
